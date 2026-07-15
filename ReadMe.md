@@ -1,4 +1,5 @@
-# README - PowerShell Deployment Extension Kit
+# README - PowerShell Deployment Extension Kit FRENCH VERSION
+Le script Install-PSD est corrigé et traduit pour les versions françaises de Windows Server.
 
 Dec 2025 (ver 0.2.3.1)
 - Added ZTIGather.xml (was missing for a long time)
